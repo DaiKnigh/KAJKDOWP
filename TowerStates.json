@@ -193,8 +193,8 @@
             ]
         },
             "Heavy Duty Freddy": {
-            "Type": "Single",
-            "Image": "rbxassetid://95875649748014",
+            "Type": "Explosion",
+            "Image": "rbxassetid://113089484806858",
             "Rarity": "Epic",
             "PlacePrice": 400,
             "Max": 2,
