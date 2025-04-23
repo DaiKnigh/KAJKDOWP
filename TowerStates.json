@@ -732,6 +732,45 @@
             }
         ]
     },
+        "Final Destiny Endo": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://116203441922018",
+        "Rarity": "Nightmare",
+        "PlacePrice": 5000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -1.9,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 500,
+                "Cooldown": 3
+            },
+            {
+                "Price": 7500,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 15000,
+                "Range": 35,
+                "Damage": 1500,
+                "Cooldown": 2
+            },
+            {
+                "Price": 25000,
+                "Range": 40,
+                "Damage": 2000,
+                "Cooldown": 1.5
+            }
+        ]
+    },
     "Withered Golden Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://16781122207",
