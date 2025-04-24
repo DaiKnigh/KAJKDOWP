@@ -654,6 +654,45 @@
             }
         ]
     },
+      "Scott": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://128387758828613",
+        "Rarity": "Twisted",
+        "PlacePrice": 15000,
+        "Max": 1,
+        "AnimationOffset": -5,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 1000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 10000,
+                "Range": 30,
+                "Damage": 5000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 18000,
+                "Range": 32,
+                "Damage": 7000,
+                "Cooldown": 1.75
+            },
+            {
+                "Price": 30000,
+                "Range": 35,
+                "Damage": 20000,
+                "Cooldown": 1.5
+            }
+        ]
+    },
     "Golden Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://17629034232",
