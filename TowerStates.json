@@ -1760,6 +1760,44 @@
             }
         ]
     },
+        "Abyssal Golden Freddy": {
+        "Type": "Continuous",
+        "Image": "rbxassetid://91233143586826",
+        "Rarity": "Nightmare",
+        "PlacePrice": 18000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 40,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 22000,
+                "Range": 23,
+                "Damage": 50,
+                "Cooldown": 0.025
+            },
+            {
+                "Price": 40000,
+                "Range": 27,
+                "Damage": 55,
+                "Cooldown": 0.015
+            },
+            {
+                "Price": 60000,
+                "Range": 35,
+                "Damage": 60,
+                "Cooldown": 0.01
+            }
+        ]
+    },
     "Phantom Balloon Boy": {
         "Type": "Nuke",
         "Image": "rbxassetid://18356472602",
