@@ -891,6 +891,53 @@
             }
         ]
     },
+        "Table": {
+        "Type": "Support",
+        "Image": "rbxassetid://17851638702",
+        "Rarity": "Secret",
+        "PlacePrice": 2000,
+        "NoEnemyAttack": true,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.1
+                "RangeBoost": 1.1
+            },
+            {
+                "Price": 2000,
+                "Range": 17,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.15
+                "RangeBoost": 1.15
+            },
+            {
+                "Price": 3000,
+                "Range": 19,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.2
+                "RangeBoost": 1.2
+            },
+            {
+                "Price": 4500,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.35
+                "RangeBoost": 1.25
+            }
+        ]
+    },
     "Endo 02": {
         "Type": "Single",
         "Image": "rbxassetid://17690383931",
