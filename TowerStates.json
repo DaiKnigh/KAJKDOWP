@@ -910,7 +910,6 @@
                 "Damage": 0,
                 "Cooldown": 1,
                 "DamageBoost": 1.1
-                "RangeBoost": 1.1
             },
             {
                 "Price": 2000,
@@ -918,7 +917,6 @@
                 "Damage": 0,
                 "Cooldown": 1,
                 "DamageBoost": 1.15
-                "RangeBoost": 1.15
             },
             {
                 "Price": 3000,
@@ -926,7 +924,6 @@
                 "Damage": 0,
                 "Cooldown": 1,
                 "DamageBoost": 1.2
-                "RangeBoost": 1.2
             },
             {
                 "Price": 4500,
@@ -934,7 +931,6 @@
                 "Damage": 0,
                 "Cooldown": 1,
                 "DamageBoost": 1.35
-                "RangeBoost": 1.25
             }
         ]
     },
