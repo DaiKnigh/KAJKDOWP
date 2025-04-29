@@ -771,6 +771,84 @@
             }
         ]
     },
+        "Circuit Freddy": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://136452306441928",
+        "Rarity": "Nightmare",
+        "PlacePrice": 20000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -1.9,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 14,
+                "Damage": 2000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 18000,
+                "Range": 18,
+                "Damage": 6000,
+                "Cooldown": 2.8
+            },
+            {
+                "Price": 25000,
+                "Range": 22,
+                "Damage": 10000,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 35000,
+                "Range": 25,
+                "Damage": 15000,
+                "Cooldown": 2
+            }
+        ]
+    },
+        "Twisted Golden Freddy": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://91233143586826",
+        "Rarity": "Twisted",
+        "PlacePrice": 6000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -1.9,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 10000,
+                "Cooldown": 5
+            },
+            {
+                "Price": 20000,
+                "Range": 30,
+                "Damage": 50000,
+                "Cooldown": 5.5
+            },
+            {
+                "Price": 40000,
+                "Range": 35,
+                "Damage": 80000,
+                "Cooldown": 6
+            },
+            {
+                "Price": 50000,
+                "Range": 40,
+                "Damage": 135000,
+                "Cooldown": 7
+            }
+        ]
+    },
         "Final Destiny Endo": {
         "Type": "Pierce",
         "Image": "rbxassetid://116203441922018",
