@@ -231,7 +231,7 @@
             ]
         },
             "Old Man Consequences": {
-            "Type": "Splash",
+            "Type": "Splash Slow",
             "Image": "rbxassetid://114825542948221",
             "Rarity": "Twisted",
             "PlacePrice": 5000,
@@ -732,7 +732,7 @@
         ]
     },
       "Scott": {
-        "Type": "Overtime Explosion",
+        "Type": "Multi Explosion",
         "Image": "rbxassetid://128387758828613",
         "Rarity": "Twisted",
         "PlacePrice": 15000,
