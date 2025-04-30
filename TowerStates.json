@@ -115,45 +115,6 @@
             }
         ]
     },
-        "Time Foxy": {
-        "Type": "Splash Slow",
-        "Image": "rbxassetid://132764752523748",
-        "Rarity": "Twisted",
-        "PlacePrice": 30000,
-        "Offset": 0.65,
-        "Max": 5,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 10,
-                "Cooldown": 2
-            },
-            {
-                "Price": 40000,
-                "Range": 25,
-                "Damage": 80,
-                "Cooldown": 1.75
-            },
-            {
-                "Price": 45000,
-                "Range": 30,
-                "Damage": 15,
-                "Cooldown": 1.5
-            },
-            {
-                "Price": 50000,
-                "Range": 40,
-                "Damage": 20,
-                "Cooldown": 1
-            }
-        ]
-    },
     "Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://16620268084",
@@ -190,6 +151,45 @@
                 "Range": 26,
                 "Damage": 50,
                 "Cooldown": 0.05
+            }
+        ]
+    },
+        "Time Foxy": {
+        "Type": "Splash Slow",
+        "Image": "rbxassetid://132764752523748",
+        "Rarity": "Twisted",
+        "PlacePrice": 30000,
+        "Offset": 0.65,
+        "Max": 5,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 10,
+                "Cooldown": 2
+            },
+            {
+                "Price": 40000,
+                "Range": 25,
+                "Damage": 80,
+                "Cooldown": 1.75
+            },
+            {
+                "Price": 45000,
+                "Range": 30,
+                "Damage": 15,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 50000,
+                "Range": 40,
+                "Damage": 20,
+                "Cooldown": 1
             }
         ]
     },
