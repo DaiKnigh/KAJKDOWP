@@ -160,7 +160,7 @@
         "Rarity": "Twisted",
         "PlacePrice": 30000,
         "Offset": 0.65,
-        "Max": 5,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -176,7 +176,7 @@
             {
                 "Price": 40000,
                 "Range": 25,
-                "Damage": 80,
+                "Damage": 12,
                 "Cooldown": 1.75
             },
             {
