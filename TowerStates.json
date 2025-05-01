@@ -2522,6 +2522,45 @@
             }
         ]
     },
+       "Kamikaze Cupcake": {
+        "Type": "Single",
+        "Image": "rbxassetid://89152995806630",
+        "Rarity": "Secret",
+        "PlacePrice": 2000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 5,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 150,
+                "Cooldown": 3
+            },
+            {
+                "Price": 1800,
+                "Range": 35,
+                "Damage": 240,
+                "Cooldown": 3
+            },
+            {
+                "Price": 2200,
+                "Range": 40,
+                "Damage": 400,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 2500,
+                "Range": 45,
+                "Damage": 800,
+                "Cooldown": 2
+            }
+        ]
+    },
     "Witch Toy Chica": {
         "Type": "Poison",
         "Image": "rbxassetid://18363391561",
