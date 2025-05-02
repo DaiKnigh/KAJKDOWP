@@ -1266,6 +1266,45 @@
             }
         ]
     },
+        "Jet Boy": {
+        "Type": "Continuous",
+        "Image": "rbxassetid://89494599399931",
+        "Rarity": "Twisted",
+        "PlacePrice": 35000,
+        "Offset": 2,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 500,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 40000,
+                "Range": 30,
+                "Damage": 750,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 25000,
+                "Range": 40,
+                "Damage": 1000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 40000,
+                "Range": 50,
+                "Damage": 12000,
+                "Cooldown": 0.1
+            }
+        ]
+    },
     "Rockin Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://17689695988",
