@@ -115,6 +115,45 @@
             }
         ]
     },
+        "Shadow Foxy": {
+        "Type": "Multi",
+        "Image": "rbxassetid://86608016425214",
+        "Rarity": "Mythic",
+        "PlacePrice": 800,
+        "Offset": 0.65,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 70,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1000,
+                "Range": 12,
+                "Damage": 100,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1600,
+                "Range": 13,
+                "Damage": 150,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2000,
+                "Range": 15,
+                "Damage": 200,
+                "Cooldown": 1.25
+            }
+        ]
+    },
         "Heal Puppet": {
         "Type": "Healer",
         "Image": "rbxassetid://126663212561899",
@@ -2569,7 +2608,7 @@
     },
        "Sniper Bonnie": {
         "Type": "Single",
-        "Image": "rbxassetid://89152995806630",
+        "Image": "rbxassetid://92409742904742",
         "Rarity": "Secret",
         "PlacePrice": 2000,
         "Max": 3,
