@@ -115,6 +115,45 @@
             }
         ]
     },
+        "Freddle": {
+        "Type": "Slash",
+        "Image": "rbxassetid://89660396064604",
+        "Rarity": "Secret",
+        "PlacePrice": 400,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 80,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2000,
+                "Range": 15,
+                "Damage": 120,
+                "Cooldown": 1
+            },
+            {
+                "Price": 3200,
+                "Range": 17,
+                "Damage": 250,
+                "Cooldown": 1
+            },
+            {
+                "Price": 4000,
+                "Range": 20,
+                "Damage": 300,
+                "Cooldown": 0.75
+            }
+        ]
+    },
         "Shadow Foxy": {
         "Type": "Multi",
         "Image": "rbxassetid://86608016425214",
