@@ -38,6 +38,33 @@
             }
         ]
     },
+        "Causa Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://80070501807107",
+        "Rarity": "Secret",
+        "PlacePrice": 400,
+        "Max": 3,
+        "Offset": 0,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 100,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1000,
+                "Range": 15,
+                "Damage": 200,
+                "Cooldown": 0.75
+            }
+        ]
+    },
     "Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://16620303027",
