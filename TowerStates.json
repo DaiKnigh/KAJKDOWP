@@ -2134,19 +2134,19 @@
                 "Price": 500,
                 "Range": 18,
                 "Damage": 150,
-                "Cooldown": 3.8
+                "Cooldown": 3
             },
             {
                 "Price": 800,
                 "Range": 20,
                 "Damage": 200,
-                "Cooldown": 3.7
+                "Cooldown": 2
             },
             {
                 "Price": 1200,
                 "Range": 22,
                 "Damage": 250,
-                "Cooldown": 3.5
+                "Cooldown": 1
             }
         ]
     },
