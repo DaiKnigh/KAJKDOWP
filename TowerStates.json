@@ -79,7 +79,7 @@
         "Nightmare Bonnie": {
         "Type": "Single Critical",
         "Image": "rbxassetid://70722663174785",
-        "Rarity": "Uncommon",
+        "Rarity": "Nightmare",
         "PlacePrice": 6000,
         "Max": 1,
         "hitboxOffset": {
@@ -341,6 +341,39 @@
         "Image": "rbxassetid://120066505668972",
         "Rarity": "Nightmare",
         "PlacePrice": 5000,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 700,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 10000,
+                "Range": 25,
+                "Damage": 4000,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 30000,
+                "Range": 30,
+                "Damage": 7000,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+        "Nightmare Mangle": {
+        "Type": "Dual",
+        "Image": "rbxassetid://99227466505592",
+        "Rarity": "Twisted",
+        "PlacePrice": 8000,
         "Offset": 0,
         "Max": 1,
         "hitboxOffset": {
