@@ -258,6 +258,45 @@
             }
         ]
     },
+        "Nightmare Chica": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://77803282593941",
+        "Rarity": "Epic",
+        "PlacePrice": 800,
+        "Offset": 0.65,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 100,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1500,
+                "Range": 14.5,
+                "Damage": 150,
+                "Cooldown": 1.75
+            },
+            {
+                "Price": 2200,
+                "Range": 16,
+                "Damage": 200,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 2500,
+                "Range": 18,
+                "Damage": 250,
+                "Cooldown": 1.25
+            }
+        ]
+    },
         "Heal Puppet": {
         "Type": "Healer",
         "Image": "rbxassetid://126663212561899",
