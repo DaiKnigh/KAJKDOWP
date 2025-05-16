@@ -2189,6 +2189,45 @@
             }
         ]
     },
+        "Eagle Call Freddy": {
+        "Type": "Multi Explosion",
+        "Image": "rbxassetid://87369199888525",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 300,
+                "Cooldown": 4
+            },
+            {
+                "Price": 1500,
+                "Range": 24,
+                "Damage": 600,
+                "Cooldown": 3.75
+            },
+            {
+                "Price": 3000,
+                "Range": 26,
+                "Damage": 2000,
+                "Cooldown": 3.5
+            },
+            {
+                "Price": 3200,
+                "Range": 30,
+                "Damage": 4000,
+                "Cooldown": 3
+            }
+        ]
+    },
     "SpringTrap": {
         "Type": "Pierce",
         "Image": "rbxassetid://124847189815025",
