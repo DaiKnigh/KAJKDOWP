@@ -369,6 +369,45 @@
             }
         ]
     },
+        "Death Machine Bonnie": {
+        "Type": "Continuous",
+        "Image": "rbxassetid://124962085060487",
+        "Rarity": "EVO Nightmare",
+        "PlacePrice": 30000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 200,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 10000,
+                "Range": 22,
+                "Damage": 670,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 25000,
+                "Range": 26,
+                "Damage": 1000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 35000,
+                "Range": 30,
+                "Damage": 1600,
+                "Cooldown": 0.1
+            }
+        ]
+    },
         "Time Foxy": {
         "Type": "Splash Slow",
         "Image": "rbxassetid://132764752523748",
