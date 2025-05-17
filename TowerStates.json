@@ -370,7 +370,7 @@
         ]
     },
         "Death Machine Bonnie": {
-        "Type": "Continuous",
+        "Type": "Continuous Splash",
         "Image": "rbxassetid://124962085060487",
         "Rarity": "EVO Nightmare",
         "PlacePrice": 30000,
@@ -2454,6 +2454,44 @@
                 "Range": 30,
                 "Damage": 70,
                 "Cooldown": 0.05
+            }
+        ]
+    },
+        "Ghastly Phantom Freddy": {
+        "Type": "Continuous",
+        "Image": "rbxassetid://124962085060487",
+        "Rarity": "EVO Nightmare",
+        "PlacePrice": 7000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 16,
+                "Damage": 100,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 9000,
+                "Range": 22,
+                "Damage": 500,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 12000,
+                "Range": 25,
+                "Damage": 800,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 20000,
+                "Range": 27,
+                "Damage": 1700,
+                "Cooldown": 0.1
             }
         ]
     },
