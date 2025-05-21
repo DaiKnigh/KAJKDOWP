@@ -58,7 +58,7 @@
                 "Cooldown": 1
             },
             {
-                "Price": 1000,
+                "Price": 750,
                 "Range": 15,
                 "Damage": 200,
                 "Cooldown": 0.75
@@ -646,13 +646,13 @@
                     "Cooldown": 2.5
                 },
                 {
-                    "Price": 1800,
+                    "Price": 2500,
                     "Range": 13,
                     "Damage": 250,
                     "Cooldown": 2
                 },
                 {
-                    "Price": 2500,
+                    "Price": 3000,
                     "Range": 15,
                     "Damage": 300,
                     "Cooldown": 1.5
@@ -809,6 +809,82 @@
                 "Range": 20,
                 "Damage": 30,
                 "Cooldown": 0.05
+            }
+        ]
+    },
+        "Nightmare": {
+        "Type": "Single Reaper",
+        "Image": "rbxassetid://84714265086412",
+        "Rarity": "Twisted",
+        "PlacePrice": 4500,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 700,
+                "Cooldown": 1
+            },
+            {
+                "Price": 8000,
+                "Range": 35,
+                "Damage": 2000,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 14000,
+                "Range": 40,
+                "Damage": 3500,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 25000,
+                "Range": 45,
+                "Damage": 5000,
+                "Cooldown": 0.25
+            }
+        ]
+    },
+        "1x1x1x1": {
+        "Type": "Glitch Splash",
+        "Image": "rbxassetid://100674162339277",
+        "Rarity": "Twisted",
+        "PlacePrice": 4500,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1500,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 6500,
+                "Range": 23,
+                "Damage": 3500,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 15000,
+                "Range": 27,
+                "Damage": 5500,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 20000,
+                "Range": 30,
+                "Damage": 8000,
+                "Cooldown": 0.5
             }
         ]
     },
