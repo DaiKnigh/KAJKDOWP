@@ -1109,6 +1109,84 @@
             }
         ]
     },
+     "Burned Foxy": {
+        "Type": "Melee Burn",
+        "Image": "rbxassetid://136889187291309",
+        "Rarity": "Mythic",
+        "PlacePrice": 2000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 200,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1000,
+                "Range": 16,
+                "Damage": 240,
+                "Cooldown": 1.75
+            },
+            {
+                "Price": 2500,
+                "Range": 18,
+                "Damage": 360,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 4000,
+                "Range": 20,
+                "Damage": 550,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+        "Burned Golden Freddy": {
+        "Type": "Pierce Burn",
+        "Image": "rbxassetid://71358613756390",
+        "Rarity": "Mythic",
+        "PlacePrice": 4500,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 2000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 3400,
+                "Range": 24,
+                "Damage": 1750,
+                "Cooldown": 1.75
+            },
+            {
+                "Price": 2500,
+                "Range": 27,
+                "Damage": 1500,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 4000,
+                "Range": 30,
+                "Damage": 1200,
+                "Cooldown": 1
+            }
+        ]
+    },
     "Toy Bonnie": {
         "Type": "Dual",
         "Image": "rbxassetid://16780983603",
@@ -1377,6 +1455,45 @@
                 "Range": 35,
                 "Damage": 20000,
                 "Cooldown": 1.5
+            }
+        ]
+    },
+        "Flame Master Scott": {
+        "Type": "AOE Burn Slow",
+        "Image": "rbxassetid://78562267639582",
+        "Rarity": "Nightmare",
+        "PlacePrice": 12000,
+        "Max": 2,
+        "AnimationOffset": 0,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 3400,
+                "Cooldown": 1
+            },
+            {
+                "Price": 15000,
+                "Range": 32,
+                "Damage": 4200,
+                "Cooldown": 1
+            },
+            {
+                "Price": 24000,
+                "Range": 36,
+                "Damage": 5000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 40000,
+                "Range": 40,
+                "Damage": 6500,
+                "Cooldown": 1
             }
         ]
     },
