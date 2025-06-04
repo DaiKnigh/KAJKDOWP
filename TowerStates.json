@@ -297,6 +297,111 @@
             }
         ]
     },
+        "Guest": {
+        "Type": "Single",
+        "Image": "rbxassetid://80905912014124",
+        "Rarity": "Mythic",
+        "PlacePrice": 300,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 50,
+                "Cooldown": 1
+            },
+            {
+                "Price": 900,
+                "Range": 12,
+                "Damage": 80,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 1500,
+                "Range": 13,
+                "Damage": 120,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 2000,
+                "Range": 15,
+                "Damage": 150,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+        "Builderman": {
+        "Type": "Single",
+        "Image": "rbxassetid://120910896211855",
+        "Rarity": "Secret",
+        "PlacePrice": 2000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 200,
+                "Cooldown": 1
+            },
+            {
+                "Price": 3400,
+                "Range": 16,
+                "Damage": 340,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 5000,
+                "Range": 20,
+                "Damage": 500,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+        "Guest666": {
+        "Type": "Explosive",
+        "Image": "rbxassetid://123994194393092",
+        "Rarity": "Nightmare",
+        "PlacePrice": 3500,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 500,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 4500,
+                "Range": 15,
+                "Damage": 1000,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 7000,
+                "Range": 20,
+                "Damage": 1500,
+                "Cooldown": 0.25
+            }
+        ]
+    },
         "Heal Puppet": {
         "Type": "Healer",
         "Image": "rbxassetid://126663212561899",
