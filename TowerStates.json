@@ -1386,7 +1386,7 @@
         "Rarity": "Secret",
         "PlacePrice": 500,
         "Max": 2,
-        "AnimationOffset": -5,
+        "AnimationOffset": 0,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
