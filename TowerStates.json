@@ -518,7 +518,7 @@
         "Image": "rbxassetid://132764752523748",
         "Rarity": "Twisted",
         "PlacePrice": 30000,
-        "Offset": 0.65,
+        "Offset": 0,
         "Max": 1,
         "hitboxOffset": {
             "X": 0,
