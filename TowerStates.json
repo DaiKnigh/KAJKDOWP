@@ -549,7 +549,7 @@
         "DJ Mangle": {
         "Type": "AOE Stun",
         "Image": "rbxassetid://120066505668972",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 5000,
         "Offset": 0,
         "Max": 1,
@@ -561,20 +561,20 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 700,
+                "Range": 15,
+                "Damage": 450,
                 "Cooldown": 0.5
             },
             {
-                "Price": 10000,
-                "Range": 25,
-                "Damage": 4000,
+                "Price": 12000,
+                "Range": 22,
+                "Damage": 2000,
                 "Cooldown": 0.5
             },
             {
                 "Price": 30000,
                 "Range": 30,
-                "Damage": 7000,
+                "Damage": 3500,
                 "Cooldown": 0.5
             }
         ]
