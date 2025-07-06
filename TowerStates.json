@@ -297,6 +297,162 @@
             }
         ]
     },
+        "Jack O Chica": {
+        "Type": "Nuke Burn",
+        "Image": "rbxassetid://131306525337674",
+        "Rarity": "Nightmare",
+        "PlacePrice": 8000,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 1000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 6000,
+                "Range": 22,
+                "Damage": 2200,
+                "Cooldown": 3.5
+            },
+            {
+                "Price": 9000,
+                "Range": 25,
+                "Damage": 4600,
+                "Cooldown": 2.75
+            },
+            {
+                "Price": 12000,
+                "Range": 30,
+                "Damage": 6000,
+                "Cooldown": 2
+            }
+        ]
+    },
+        "Jack O Bonnie": {
+        "Type": "Continous Burn",
+        "Image": "rbxassetid://96310497051853",
+        "Rarity": "Secret",
+        "PlacePrice": 2500,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 250,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 3500,
+                "Range": 16,
+                "Damage": 560,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 6000,
+                "Range": 22,
+                "Damage": 1000,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 12000,
+                "Range": 25,
+                "Damage": 1500,
+                "Cooldown": 0.2
+            }
+        ]
+    },
+        "ITS ME": {
+        "Type": "Single Glitch",
+        "Image": "rbxassetid://124527515638274",
+        "Rarity": "Nightmare",
+        "PlacePrice": 5000,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 800,
+                "Cooldown": 2
+            },
+            {
+                "Price": 5000,
+                "Range": 18,
+                "Damage": 1800,
+                "Cooldown": 1.75
+            },
+            {
+                "Price": 7500,
+                "Range": 22,
+                "Damage": 2600,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 12000,
+                "Range": 25,
+                "Damage": 4000,
+                "Cooldown": 1
+            }
+        ]
+    },
+        "Limitless Shadow": {
+        "Type": "Splash Glitch",
+        "Image": "rbxassetid://79145725115622",
+        "Rarity": "EVO Nightmare",
+        "PlacePrice": 12000,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 16,
+                "Damage": 700,
+                "Cooldown": 2
+            },
+            {
+                "Price": 7000,
+                "Range": 20,
+                "Damage": 2000,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 10000,
+                "Range": 24,
+                "Damage": 4000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 20000,
+                "Range": 28,
+                "Damage": 6000,
+                "Cooldown": 0.75
+            }
+        ]
+    },
         "Guest": {
         "Type": "Single",
         "Image": "rbxassetid://80905912014124",
