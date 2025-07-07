@@ -3462,7 +3462,7 @@
         ]
     },
        "Sniper Bonnie": {
-        "Type": "Single",
+        "Type": "Pierce",
         "Image": "rbxassetid://92409742904742",
         "Rarity": "Secret",
         "PlacePrice": 2000,
@@ -3495,7 +3495,7 @@
             {
                 "Price": 2500,
                 "Range": 45,
-                "Damage": 800,
+                "Damage": 600,
                 "Cooldown": 2
             }
         ]
