@@ -224,7 +224,7 @@
         "Image": "rbxassetid://86608016425214",
         "Rarity": "Mythic",
         "PlacePrice": 800,
-        "Offset": 0.65,
+        "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
