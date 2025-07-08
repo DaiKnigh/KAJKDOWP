@@ -258,6 +258,45 @@
             }
         ]
     },
+        "Goliath Endo Freddy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://132122363391478",
+        "Rarity": "EVO Nightmare",
+        "PlacePrice": 14000,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 10000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 12000,
+                "Range": 30,
+                "Damage": 16000,
+                "Cooldown": 3.75
+            },
+            {
+                "Price": 16000,
+                "Range": 35,
+                "Damage": 24000,
+                "Cooldown": 3.35
+            },
+            {
+                "Price": 26000,
+                "Range": 40,
+                "Damage": 36000,
+                "Cooldown": 3
+            }
+        ]
+    },
         "Nightmare Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://77803282593941",
@@ -488,6 +527,45 @@
                 "Price": 2000,
                 "Range": 15,
                 "Damage": 150,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+        "Knight Puppet": {
+        "Type": "Slash Fear",
+        "Image": "rbxassetid://85431918699841",
+        "Rarity": "Mistery",
+        "PlacePrice": 15000,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 14,
+                "Damage": 7000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 15000,
+                "Range": 18,
+                "Damage": 7200,
+                "Cooldown": 2
+            },
+            {
+                "Price": 25000,
+                "Range": 20,
+                "Damage": 7500,
+                "Cooldown": 1
+            },
+                        {
+                "Price": 30000,
+                "Range": 24,
+                "Damage": 10000,
                 "Cooldown": 0.5
             }
         ]
