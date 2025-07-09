@@ -3468,12 +3468,12 @@
         ]
     },
     "War Machine Foxy": {
-        "Type": "Continuous",
+        "Type": "Continuous Splash",
         "Image": "rbxassetid://18363581536",
-        "Rarity": "Secret",
-        "PlacePrice": 3500,
-        "Offset": 0.45,
-        "Max": 4,
+        "Rarity": "Nightmare",
+        "PlacePrice": 4000,
+        "Offset": 0.1,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -3482,27 +3482,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 30,
-                "Cooldown": 0.05
+                "Range": 15,
+                "Damage": 300,
+                "Cooldown": 0.1
             },
             {
-                "Price": 5000,
-                "Range": 23,
-                "Damage": 38,
-                "Cooldown": 0.05
+                "Price": 3500,
+                "Range": 20,
+                "Damage": 350,
+                "Cooldown": 0.1
             },
             {
                 "Price": 6000,
-                "Range": 26,
-                "Damage": 45,
-                "Cooldown": 0.05
+                "Range": 25,
+                "Damage": 400,
+                "Cooldown": 0.1
             },
             {
                 "Price": 7000,
                 "Range": 30,
-                "Damage": 55,
-                "Cooldown": 0.05
+                "Damage": 5000,
+                "Cooldown": 0.1
             }
         ]
     },
