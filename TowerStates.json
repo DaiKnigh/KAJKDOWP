@@ -1151,6 +1151,44 @@
             }
         ]
     },
+        "Withered Endo Freddy": {
+        "Type": "Continuous",
+        "Image": "rbxassetid://132827291469089",
+        "Rarity": "Secret",
+        "PlacePrice": 6000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 150,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 5000,
+                "Range": 20,
+                "Damage": 200,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 7500,
+                "Range": 22,
+                "Damage": 270,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 15000,
+                "Range": 25,
+                "Damage": 400,
+                "Cooldown": 0.1
+            }
+        ]
+    },
         "Nightmare": {
         "Type": "Single Reaper",
         "Image": "rbxassetid://84714265086412",
@@ -1186,6 +1224,120 @@
                 "Range": 45,
                 "Damage": 5000,
                 "Cooldown": 0.25
+            }
+        ]
+    },
+        "Titan Golden Freddy": {
+        "Type": "Explosive Slow",
+        "Image": "rbxassetid://74638098916409",
+        "Rarity": "Twisted",
+        "PlacePrice": 25000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 2000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 16000,
+                "Range": 26,
+                "Damage": 6000,
+                "Cooldown": 1.75
+            },
+            {
+                "Price": 32000,
+                "Range": 30,
+                "Damage": 14000,
+                "Cooldown": 1.35
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 18000,
+                "Cooldown": 1
+            }
+        ]
+    },
+        "Nightmare Fredbear": {
+        "Type": "Continous Splash Blood",
+        "Image": "rbxassetid://119046997380440",
+        "Rarity": "Mistery",
+        "PlacePrice": 30000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 400,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 20000,
+                "Range": 24,
+                "Damage": 1000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 36000,
+                "Range": 26,
+                "Damage": 1500,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 50000,
+                "Range": 30,
+                "Damage": 2000,
+                "Cooldown": 0.1
+            }
+        ]
+    },
+        "Ghost Foxy": {
+        "Type": "Slash Curse",
+        "Image": "rbxassetid://89509004412795",
+        "Rarity": "Mistery",
+        "PlacePrice": 15000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 5000,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 16000,
+                "Range": 20,
+                "Damage": 7000,
+                "Cooldown": 1.25
+            },
+            {
+                "Price": 25000,
+                "Range": 25,
+                "Damage": 8200,
+                "Cooldown": 1
+            },
+            {
+                "Price": 37000,
+                "Range": 32,
+                "Damage": 10000,
+                "Cooldown": 0.75
             }
         ]
     },
