@@ -180,6 +180,318 @@
             }
         ]
     },
+        "Haunted Soul": {
+        "Type": "Single",
+        "Image": "rbxassetid://123374532866098",
+        "Rarity": "Mythic",
+        "PlacePrice": 600,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 120,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1500,
+                "Range": 16,
+                "Damage": 280,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 3200,
+                "Range": 20,
+                "Damage": 400,
+                "Cooldown": 0.68
+            },
+            {
+                "Price": 5000,
+                "Range": 25,
+                "Damage": 800,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+        "Blighted Foxy": {
+        "Type": "Dual Slash",
+        "Image": "rbxassetid://98049412116483",
+        "Rarity": "Mythic",
+        "PlacePrice": 1200,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 80,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2000,
+                "Range": 14,
+                "Damage": 200,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 4600,
+                "Range": 16,
+                "Damage": 350,
+                "Cooldown": 0.68
+            },
+            {
+                "Price": 7000,
+                "Range": 20,
+                "Damage": 500,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+        "Necro Freddy": {
+        "Type": "Cursed Continous",
+        "Image": "rbxassetid://112442024333391",
+        "Rarity": "Secret",
+        "PlacePrice": 3200,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 14,
+                "Damage": 150,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 4000,
+                "Range": 16,
+                "Damage": 230,
+                "Cooldown": 0.36
+            },
+            {
+                "Price": 6500,
+                "Range": 20,
+                "Damage": 410,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 10000,
+                "Range": 25,
+                "Damage": 500,
+                "Cooldown": 0.1
+            }
+        ]
+    },
+        "Fallen Warrior Puppet": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://114458214397623",
+        "Rarity": "Mistery",
+        "PlacePrice": 50000,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 6000,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 15000,
+                "Range": 18,
+                "Damage": 10000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 30000,
+                "Range": 20,
+                "Damage": 13500,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 55000,
+                "Range": 24,
+                "Damage": 17000,
+                "Cooldown": 1
+            }
+        ]
+    },
+        "Deadeye Freddy": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://132504836230596",
+        "Rarity": "Nightmare",
+        "PlacePrice": 2800,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 400,
+                "Cooldown": 1
+            },
+            {
+                "Price": 5000,
+                "Range": 18,
+                "Damage": 1000,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 10000,
+                "Range": 22,
+                "Damage": 2300,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 12000,
+                "Range": 28,
+                "Damage": 3600,
+                "Cooldown": 0.25
+            }
+        ]
+    },
+        "Master Puppeteer": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://113562248887431",
+        "Rarity": "Secret",
+        "PlacePrice": 1800,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 8,
+                "Damage": 500,
+                "Cooldown": 2
+            },
+            {
+                "Price": 3000,
+                "Range": 10,
+                "Damage": 740,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 5600,
+                "Range": 12,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 10000,
+                "Range": 15,
+                "Damage": 1500,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+        "Overclocked Puppeteer": {
+        "Type": "Dual",
+        "Image": "rbxassetid://140177756770677",
+        "Rarity": "Nightmare",
+        "PlacePrice": 5500,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 500,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 6000,
+                "Range": 16,
+                "Damage": 740,
+                "Cooldown": 1
+            },
+            {
+                "Price": 12000,
+                "Range": 25,
+                "Damage": 1250,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 18000,
+                "Range": 30,
+                "Damage": 2000,
+                "Cooldown": 0.25
+            }
+        ]
+    },
+        "Flame Magician Chica": {
+        "Type": "Nuke Burn",
+        "Image": "rbxassetid://127339145588988",
+        "Rarity": "Mistery",
+        "PlacePrice": 20000,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 1000,
+                "Cooldown": 6
+            },
+            {
+                "Price": 22000,
+                "Range": 24,
+                "Damage": 2500,
+                "Cooldown": 5.5
+            },
+            {
+                "Price": 37000,
+                "Range": 30,
+                "Damage": 5000,
+                "Cooldown": 5
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 8000,
+                "Cooldown": 4
+            }
+        ]
+    },
         "Freddle": {
         "Type": "Slash",
         "Image": "rbxassetid://89660396064604",
