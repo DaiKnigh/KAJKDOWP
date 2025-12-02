@@ -1,0 +1,9 @@
+{
+  "milestones": [
+    { "goal": 100, "label": "Early Goal" },
+    { "goal": 250, "label": "Nice!" },
+    { "goal": 750, "label": "Epic!" },
+    { "goal": 1000, "label": "Crazy!" },
+    { "goal": 2500, "label": "INSANE!!" }
+  ]
+}
