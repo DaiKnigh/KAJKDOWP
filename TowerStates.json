@@ -103,6 +103,44 @@
             }
         ]
     },
+        "Last Valkyrie": {
+        "Type": "Nuke Continous Bleed",
+        "Image": "rbxassetid://81803702679623",
+        "Rarity": "Uncommon",
+        "PlacePrice": 50000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 4.1,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1500,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 25000,
+                "Range": 25,
+                "Damage": 2500,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 36000,
+                "Range": 32,
+                "Damage": 4400,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 60000,
+                "Range": 40,
+                "Damage": 6000,
+                "Cooldown": 0.2
+            }
+        ]
+    },
         "Nightmare Bonnie": {
         "Type": "Single Critical",
         "Image": "rbxassetid://70722663174785",
