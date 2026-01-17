@@ -2552,10 +2552,10 @@
         ]
     },
     "Withered Golden Freddy": {
-        "Type": "Single",
+        "Type": "Continous",
         "Image": "rbxassetid://16781122207",
         "Rarity": "Secret",
-        "PlacePrice": 3500,
+        "PlacePrice": 1800,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -2566,26 +2566,102 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 450,
-                "Cooldown": 1.5
+                "Damage": 20,
+                "Cooldown": 0.1
             },
             {
                 "Price": 2200,
                 "Range": 17,
-                "Damage": 470,
-                "Cooldown": 1.25
+                "Damage": 80,
+                "Cooldown": 0.1
             },
             {
                 "Price": 3000,
                 "Range": 19,
-                "Damage": 600,
-                "Cooldown": 1.25
+                "Damage": 175,
+                "Cooldown": 0.1
             },
             {
-                "Price": 4000,
+                "Price": 5000,
+                "Range": 25,
+                "Damage": 250,
+                "Cooldown": 0.1
+            }
+        ]
+    },
+        "Super Fred": {
+        "Type": "Continous Splash Burn",
+        "Image": "rbxassetid://99738588806269",
+        "Rarity": "Twisted",
+        "PlacePrice": 15000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 80,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 10000,
+                "Range": 22,
+                "Damage": 250,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 25000,
+                "Range": 25,
+                "Damage": 650,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 35000,
+                "Range": 30,
+                "Damage": 1250,
+                "Cooldown": 0.2
+            }
+        ]
+    },
+        "Speed Dualist": {
+        "Type": "Continous Pierce Explosive",
+        "Image": "rbxassetid://115881007817336",
+        "Rarity": "Twisted",
+        "PlacePrice": 8000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
                 "Range": 20,
+                "Damage": 200,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 6500,
+                "Range": 24,
                 "Damage": 1000,
-                "Cooldown": 1
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 10000,
+                "Range": 27,
+                "Damage": 2000,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 12000,
+                "Range": 32,
+                "Damage": 3500,
+                "Cooldown": 0.2
             }
         ]
     },
@@ -2889,19 +2965,19 @@
                 "Cooldown": 2
             },
             {
-                "Price": 8000,
+                "Price": 7500,
                 "Range": 17,
                 "Damage": 2100,
                 "Cooldown": 2
             },
             {
-                "Price": 12000,
+                "Price": 10000,
                 "Range": 19,
                 "Damage": 3000,
                 "Cooldown": 2
             },
             {
-                "Price": 20000,
+                "Price": 17500,
                 "Range": 21,
                 "Damage": 3600,
                 "Cooldown": 1.5
@@ -2928,19 +3004,19 @@
                 "Cooldown": 0.1
             },
             {
-                "Price": 17000,
+                "Price": 12500,
                 "Range": 16,
                 "Damage": 150,
                 "Cooldown": 0.1
             },
             {
-                "Price": 25000,
+                "Price": 20000,
                 "Range": 22,
                 "Damage": 320,
                 "Cooldown": 0.1
             },
             {
-                "Price": 37500,
+                "Price": 30000,
                 "Range": 28,
                 "Damage": 520,
                 "Cooldown": 0.1
@@ -3052,19 +3128,19 @@
                 "Cooldown": 4
             },
             {
-                "Price": 8000,
+                "Price": 5000,
                 "Range": 15,
                 "Damage": 275,
                 "Cooldown": 3.5
             },
             {
-                "Price": 12000,
+                "Price": 9000,
                 "Range": 18,
                 "Damage": 325,
                 "Cooldown": 3
             },
             {
-                "Price": 18000,
+                "Price": 12000,
                 "Range": 25,
                 "Damage": 400,
                 "Cooldown": 3
@@ -3153,8 +3229,8 @@
         "Type": "Pierce",
         "Image": "rbxassetid://18256011276",
         "Rarity": "Nightmare",
-        "PlacePrice": 10000,
-        "Max": 3,
+        "PlacePrice": 5000,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -3168,21 +3244,21 @@
                 "Cooldown": 2
             },
             {
-                "Price": 12000,
+                "Price": 6500,
                 "Range": 15,
-                "Damage": 500,
+                "Damage": 1000,
                 "Cooldown": 1.5
             },
             {
-                "Price": 15000,
+                "Price": 8000,
                 "Range": 18,
-                "Damage": 600,
+                "Damage": 1500,
                 "Cooldown": 1
             },
             {
-                "Price": 20000,
-                "Range": 20,
-                "Damage": 750,
+                "Price": 15000,
+                "Range": 26,
+                "Damage": 3000,
                 "Cooldown": 0.5
             }
         ]
@@ -3342,7 +3418,7 @@
                 "Price": 1200,
                 "Range": 22,
                 "Damage": 250,
-                "Cooldown": 1
+                "Cooldown": 0.8
             }
         ]
     },
@@ -3503,7 +3579,7 @@
         "Type": "Explosion",
         "Image": "rbxassetid://18356356760",
         "Rarity": "Secret",
-        "PlacePrice": 15000,
+        "PlacePrice": 9000,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -3518,19 +3594,19 @@
                 "Cooldown": 1.75
             },
             {
-                "Price": 20000,
+                "Price": 12000,
                 "Range": 17,
                 "Damage": 700,
                 "Cooldown": 1.5
             },
             {
-                "Price": 25000,
+                "Price": 15000,
                 "Range": 19,
                 "Damage": 800,
                 "Cooldown": 1
             },
             {
-                "Price": 30000,
+                "Price": 22000,
                 "Range": 21,
                 "Damage": 1250,
                 "Cooldown": 1
@@ -3541,7 +3617,7 @@
         "Type": "Continuous",
         "Image": "rbxassetid://18363498934",
         "Rarity": "Secret",
-        "PlacePrice": 15000,
+        "PlacePrice": 8000,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -3556,19 +3632,19 @@
                 "Cooldown": 0.05
             },
             {
-                "Price": 20000,
+                "Price": 12000,
                 "Range": 22,
                 "Damage": 50,
                 "Cooldown": 0.05
             },
             {
-                "Price": 30000,
+                "Price": 20000,
                 "Range": 25,
                 "Damage": 60,
                 "Cooldown": 0.05
             },
             {
-                "Price": 40000,
+                "Price": 35000,
                 "Range": 30,
                 "Damage": 70,
                 "Cooldown": 0.05
@@ -3617,7 +3693,7 @@
         "Type": "Continuous",
         "Image": "rbxassetid://91233143586826",
         "Rarity": "Nightmare",
-        "PlacePrice": 18000,
+        "PlacePrice": 15000,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -3655,7 +3731,7 @@
         "Type": "Nuke",
         "Image": "rbxassetid://18356472602",
         "Rarity": "Secret",
-        "PlacePrice": 7500,
+        "PlacePrice": 4500,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -3670,19 +3746,19 @@
                 "Cooldown": 4
             },
             {
-                "Price": 10000,
+                "Price": 8000,
                 "Range": 18,
                 "Damage": 700,
                 "Cooldown": 3.5
             },
             {
-                "Price": 15000,
+                "Price": 12000,
                 "Range": 22,
                 "Damage": 800,
                 "Cooldown": 3
             },
             {
-                "Price": 20000,
+                "Price": 16000,
                 "Range": 25,
                 "Damage": 1000,
                 "Cooldown": 3
@@ -3745,28 +3821,28 @@
                 "Range": 15,
                 "Damage": 100,
                 "Cooldown": 4,
-                "Farm": 100
+                "Farm": 200
             },
             {
                 "Price": 1500,
                 "Range": 15,
                 "Damage": 100,
                 "Cooldown": 4,
-                "Farm": 200
+                "Farm": 350
             },
             {
                 "Price": 2000,
                 "Range": 15,
                 "Damage": 100,
                 "Cooldown": 4,
-                "Farm": 400
+                "Farm": 450
             },
             {
                 "Price": 3000,
                 "Range": 15,
                 "Damage": 100,
                 "Cooldown": 4,
-                "Farm": 600
+                "Farm": 1000
             }
         ]
     },
