@@ -103,6 +103,44 @@
             }
         ]
     },
+        "Steamtrap": {
+        "Type": "Rush Single",
+        "Image": "rbxassetid://74827912527846",
+        "Rarity": "Nightmare",
+        "PlacePrice": 1500,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 50,
+                "Cooldown": 1
+            },
+            {
+                "Price": 4000,
+                "Range": 15,
+                "Damage": 200,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 9000,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 17000,
+                "Range": 25,
+                "Damage": 2000,
+                "Cooldown": 0.75
+            }
+        ]
+    },
         "Last Valkyrie": {
         "Type": "Nuke Continous Bleed",
         "Image": "rbxassetid://81803702679623",
