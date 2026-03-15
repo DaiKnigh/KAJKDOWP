@@ -14,7 +14,7 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
+                "Range": 12,
                 "Damage": 40,
                 "Cooldown": 1
             },
@@ -32,7 +32,7 @@
             },
             {
                 "Price": 1250,
-                "Range": 15,
+                "Range": 18,
                 "Damage": 60,
                 "Cooldown": 0.75
             }
@@ -151,6 +151,138 @@
                 "Range": 14,
                 "Damage": 60,
                 "Cooldown": 1.5
+            }
+        ]
+    },
+        "Corrupted Freddy": {
+        "Type": "AOE Void",
+        "Image": "rbxassetid://75986657955712",
+        "Rarity": "Nightmare",
+        "PlacePrice": 15000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 3500,
+                "Cooldown": 3
+            },
+            {
+                "Price": 7000,
+                "Range": 14,
+                "Damage": 5000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 12000,
+                "Range": 16,
+                "Damage": 7500,
+                "Cooldown": 3
+            },
+            {
+                "Price": 15000,
+                "Range": 20,
+                "Damage": 12000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 25000,
+                "Range": 25,
+                "Damage": 17000,
+                "Cooldown": 3
+            }
+        ]
+    },
+        "Hydra Golden Freddy": {
+        "Type": "Single Multi",
+        "Image": "rbxassetid://118347801538575",
+        "Rarity": "Nightmare",
+        "PlacePrice": 5000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 250,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 5500,
+                "Range": 14,
+                "Damage": 500,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 7000,
+                "Range": 16,
+                "Damage": 750,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 10000,
+                "Range": 18,
+                "Damage": 1200,
+                "Cooldown": 1.1
+            },
+            {
+                "Price": 15000,
+                "Range": 20,
+                "Damage": 2000,
+                "Cooldown": 1
+            }
+        ]
+    },
+        "Kaiju Poseidon Foxy": {
+        "Type": "Pierce Bleed",
+        "Image": "rbxassetid://127814060200932",
+        "Rarity": "Twisted",
+        "PlacePrice": 10000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 2000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 8000,
+                "Range": 18,
+                "Damage": 3000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 15000,
+                "Range": 22,
+                "Damage": 5000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 18000,
+                "Range": 25,
+                "Damage": 6300,
+                "Cooldown": 1
+            },
+            {
+                "Price": 35000,
+                "Range": 30,
+                "Damage": 8000,
+                "Cooldown": 1
             }
         ]
     },
@@ -1590,9 +1722,9 @@
                     "Cooldown": 0.75
                 },
                 {
-                    "Price": 50000,
+                    "Price": 40000,
                     "Range": 35,
-                    "Damage": 15000,
+                    "Damage": 9000,
                     "Cooldown": 0.5
                 }
             ]
@@ -2539,25 +2671,25 @@
                 "Price": 0,
                 "Range": 30,
                 "Damage": 1000,
-                "Cooldown": 7
+                "Cooldown": 6
             },
             {
                 "Price": 15000,
                 "Range": 35,
                 "Damage": 1200,
-                "Cooldown": 6
+                "Cooldown": 5
             },
             {
-                "Price": 20000,
+                "Price": 18000,
                 "Range": 40,
                 "Damage": 1400,
-                "Cooldown": 5.5
+                "Cooldown": 4
             },
             {
-                "Price": 25000,
+                "Price": 22000,
                 "Range": 45,
                 "Damage": 1600,
-                "Cooldown": 5
+                "Cooldown": 3
             }
         ]
     },
@@ -2841,6 +2973,56 @@
             }
         ]
     },
+        "Heavy Commando Endo": {
+        "Type": "Splash",
+        "Image": "rbxassetid://91676002371593",
+        "Rarity": "Nightmare",
+        "PlacePrice": 3000,
+        "NoEnemyAttack": true,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 80,
+                "Cooldown": 0.1,
+                "DamageBoost": 1.15
+            },
+            {
+                "Price": 2800,
+                "Range": 13.5,
+                "Damage": 150,
+                "Cooldown": 0.1,
+                "DamageBoost": 1.15
+            },
+            {
+                "Price": 4000,
+                "Range": 15,
+                "Damage": 250,
+                "Cooldown": 0.1,
+                "DamageBoost": 1.15
+            },
+            {
+                "Price": 7000,
+                "Range": 18,
+                "Damage": 500,
+                "Cooldown": 0.1,
+                "DamageBoost": 1.15
+            },
+            {
+                "Price": 10000,
+                "Range": 22,
+                "Damage": 1000,
+                "Cooldown": 0.1,
+                "DamageBoost": 1.15
+            }
+        ]
+    },
         "Table": {
         "Type": "Support",
         "Image": "rbxassetid://127173689505563",
@@ -3083,7 +3265,7 @@
         "Image": "rbxassetid://18151575297",
         "Rarity": "Nightmare",
         "PlacePrice": 10000,
-        "Max": 3,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -3113,7 +3295,7 @@
                 "Price": 17500,
                 "Range": 21,
                 "Damage": 3600,
-                "Cooldown": 1.5
+                "Cooldown": 1.25
             }
         ]
     },
@@ -3296,7 +3478,7 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 1000,
+                "Damage": 500,
                 "Cooldown": 1.5
             },
             {
@@ -3391,7 +3573,7 @@
             {
                 "Price": 15000,
                 "Range": 26,
-                "Damage": 3000,
+                "Damage": 3500,
                 "Cooldown": 0.5
             }
         ]
@@ -3505,13 +3687,13 @@
             {
                 "Price": 1500,
                 "Range": 40,
-                "Damage": 350,
+                "Damage": 450,
                 "Cooldown": 2.5
             },
             {
                 "Price": 2000,
                 "Range": 45,
-                "Damage": 500,
+                "Damage": 700,
                 "Cooldown": 2
             }
         ]
@@ -3533,7 +3715,7 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 100,
-                "Cooldown": 4
+                "Cooldown": 3.5
             },
             {
                 "Price": 500,
@@ -3666,7 +3848,7 @@
                 "Price": 5000,
                 "Range": 20,
                 "Damage": 220,
-                "Cooldown": 0.75
+                "Cooldown": 0.5
             }
         ]
     },
@@ -3893,7 +4075,7 @@
             {
                 "Price": 16000,
                 "Range": 25,
-                "Damage": 1000,
+                "Damage": 2000,
                 "Cooldown": 3
             }
         ]
@@ -4012,13 +4194,13 @@
             {
                 "Price": 60000,
                 "Range": 35,
-                "Damage": 60,
+                "Damage": 75,
                 "Cooldown": 0.05
             }
         ]
     },
     "Phantom Cupcake": {
-        "Type": "Single",
+        "Type": "Splash",
         "Image": "rbxassetid://18363537562",
         "Rarity": "Secret",
         "PlacePrice": 800,
@@ -4044,13 +4226,13 @@
             {
                 "Price": 1800,
                 "Range": 22,
-                "Damage": 160,
+                "Damage": 250,
                 "Cooldown": 1
             },
             {
                 "Price": 2400,
                 "Range": 25,
-                "Damage": 250,
+                "Damage": 500,
                 "Cooldown": 1
             }
         ]
@@ -4151,28 +4333,28 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,
+                "Range": 26,
                 "Damage": 25,
                 "Cooldown": 4,
                 "DamageBoost": 1.06
             },
             {
                 "Price": 1500,
-                "Range": 25,
+                "Range": 26,
                 "Damage": 0,
                 "Cooldown": 4,
                 "DamageBoost": 1.12
             },
             {
                 "Price": 2000,
-                "Range": 25,
+                "Range": 26,
                 "Damage": 0,
                 "Cooldown": 4,
                 "DamageBoost": 1.15
             },
             {
                 "Price": 2500,
-                "Range": 25,
+                "Range": 26,
                 "Damage": 0,
                 "Cooldown": 4,
                 "DamageBoost": 1.18
@@ -4478,7 +4660,7 @@
             {
                 "Price": 75000,
                 "Range": 35,
-                "Damage": 60,
+                "Damage": 65,
                 "Cooldown": 0.07,
                 "ChargeLength": 2,
                 "RechargeLength": 5,
@@ -4787,13 +4969,13 @@
             {
                 "Price": 8000,
                 "Range": 17,
-                "Damage": 600,
+                "Damage": 900,
                 "Cooldown": 2
             },
             {
                 "Price": 12000,
                 "Range": 20,
-                "Damage": 750,
+                "Damage": 1500,
                 "Cooldown": 1.5
             }
         ]
@@ -4814,26 +4996,26 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 40,
-                "Cooldown": 0.05
+                "Damage": 50,
+                "Cooldown": 0.1
             },
             {
                 "Price": 15000,
                 "Range": 28,
-                "Damage": 50,
-                "Cooldown": 0.05
+                "Damage": 150,
+                "Cooldown": 0.1
             },
             {
                 "Price": 20000,
                 "Range": 32,
-                "Damage": 60,
-                "Cooldown": 0.05
+                "Damage": 250,
+                "Cooldown": 0.1
             },
             {
                 "Price": 25000,
                 "Range": 35,
-                "Damage": 80,
-                "Cooldown": 0.05
+                "Damage": 400,
+                "Cooldown": 0.1
             }
         ]
     },
