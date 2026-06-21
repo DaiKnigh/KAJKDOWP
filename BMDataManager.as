@@ -14709,6 +14709,9 @@ package net.battleMechsMulti.managers
          this.itemsDB_local[898] = new Array(898,"Resistance drainer",3,33018,"sideWeapon","physical",30,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,9,0,0,1,3,0,0,0,0,0,0,12,0,21000,60,"specialPhysical1","blaster15B",2,150,36);
          this.itemsDB_local[899] = new Array(899,"Resistance drainer",3,33019,"sideWeapon","explosive",30,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,9,0,1,3,0,0,0,0,0,0,12,0,21000,60,"specialExplosive1","blaster14B",2,150,36);
          this.itemsDB_local[900] = new Array(900,"Resistance drainer",3,33020,"sideWeapon","electric",30,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,9,1,3,0,0,0,0,0,0,12,0,21000,60,"specialElectric1","blaster13B",2,150,36);
+         this.itemsDB_local[1898] = new Array(1898,"Resistance drainer MKII",3,33018,"sideWeapon","physical",30,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,25,0,0,1,3,0,0,0,0,0,0,12,0,21000,60,"specialPhysical1","blaster15B",4,150,36);
+         this.itemsDB_local[1899] = new Array(1899,"Resistance drainer MKII",3,33019,"sideWeapon","explosive",30,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,25,0,1,3,0,0,0,0,0,0,12,0,21000,60,"specialExplosive1","blaster14B",4,150,36);
+         this.itemsDB_local[1900] = new Array(1900,"Resistance drainer MKII",3,33020,"sideWeapon","electric",30,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,25,1,3,0,0,0,0,0,0,12,0,21000,60,"specialElectric1","blaster13B",4,150,36);
          this.itemsDB_local[901] = new Array(901,"Xray",3,43008,"topWeapon","electric",30,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,12,4,2,0,0,0,0,0,0,11,0,21000,60,"specialElectric1","blaster13B",2,150,31);
          this.itemsDB_local[902] = new Array(902,"B-ray",3,43009,"topWeapon","explosive",30,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,12,0,4,2,0,0,0,0,0,0,11,0,21000,60,"specialExplosive1","blaster14B",2,150,31);
          this.itemsDB_local[903] = new Array(903,"A-ray",3,43010,"topWeapon","physical",30,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,19,0,0,4,2,0,0,0,0,0,0,11,0,21000,60,"specialPhysical1","blaster15B",2,150,31);
